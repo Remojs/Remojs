@@ -8,7 +8,6 @@
   </a>
 <br>
 <br>
-![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
 
 <p align="center" width="600">
    <img align="center" width="400" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" />
@@ -16,5 +15,6 @@
 </p>
 
 <p align="center"> <strong>| Estudiante de Programacion | </strong> </p>
-
 </p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Remojs.Remojs)
