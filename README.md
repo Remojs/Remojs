@@ -18,7 +18,7 @@
 
 <p align="center"> <strong>| Estudiante de Programacion | </strong> </p>
 </p>
-
+<br>
 <div align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Remojs&show_icons=true&theme=dark" />
 </div>
