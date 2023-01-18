@@ -16,7 +16,17 @@
    <h3 align="center">Hola soy Thiago Zambonini</h3>
 </p>
 
-<p align="center"> <strong>  Full-Stack Web Developer | React js | Javascript | Node Js  </strong> </p>
+<p align="center"> <strong>  Full-Stack Web Developer |
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40">
+    </div>
+</div>  </strong> </p>
 <p align="center"> <strong> <a href='https://linktr.ee/thiagozambonini'> SOCIAL </a>  </strong> </p>
 
 
