@@ -17,8 +17,6 @@
 </p>
 
 <p align="center"> <strong> | Full-Stack Web Developer | React js | Javascript | Node Js | </strong> </p>
-<p align="center"> [Social](https://linktr.ee/thiagozambonini) </p>
-
-
+[SOCIAL]: [http://google.com/](https://linktr.ee/thiagozambonini)
 
 
