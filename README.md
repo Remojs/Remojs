@@ -17,6 +17,6 @@
 </p>
 
 <p align="center"> <strong> | Full-Stack Web Developer | React js | Javascript | Node Js | </strong> </p>
-<a href='https://linktr.ee/thiagozambonini'> SOCIAL </a>
+<p align="center"> <strong> <a href='https://linktr.ee/thiagozambonini'> SOCIAL </a>  </strong> </p>
 
 
