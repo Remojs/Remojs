@@ -16,6 +16,9 @@
    <h3 align="center">Hola soy Thiago Zambonini</h3>
 </p>
 
-<p align="center"> <strong>| Estudiante de Programacion | </strong> </p>
-</p>
+<p align="center"> <strong> | Full-Stack Web Developer | React js | Javascript | Node Js | </strong> </p>
+<p align="center"> [Social](https://linktr.ee/thiagozambonini) </p>
+
+
+
 
