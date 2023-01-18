@@ -16,7 +16,7 @@
    <h3 align="center">Hola soy Thiago Zambonini</h3>
 </p>
 
-<p align="center"> <strong> | Full-Stack Web Developer | React js | Javascript | Node Js | </strong> </p>
+<p align="center"> <strong>  Full-Stack Web Developer | React js | Javascript | Node Js  </strong> </p>
 <p align="center"> <strong> <a href='https://linktr.ee/thiagozambonini'> SOCIAL </a>  </strong> </p>
 
 
