@@ -47,7 +47,7 @@ I consider myself a responsible and orderly person. I like to work on challengin
 
 ## Encuéntrame en:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/zambo_thiago/?hl=es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+[![Instagram](https://img.shields.io/badge/Instagram-@zambo_Thiago-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/zambo_thiago/?hl=es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
 
 
