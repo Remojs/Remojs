@@ -28,7 +28,6 @@ I consider myself a responsible and orderly person. I like to work on challengin
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-</br>
 [![CSS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
