@@ -5,20 +5,20 @@
 
 <p align="center" width="600">
    <img align="center" width="400" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" />
-   <h3 align="center">Hola soy Thiago Zambonini</h3>
+   <h3 align="center">Hello i'm Thiago Zambonini, Full-Stack Web Developer</h3>
 </p>
-
+---
 <p>
   <img width="250" align='left' src="https://github.com/Remojs/Remojs/blob/master/aaa.png">
 </p>
- 
+
+
+
 ### About Me
 
 I consider myself a responsible and orderly person. I like to work on challenging projects that make me learn constantly. I feel especially comfortable developing in the MERN stack, but I can adapt to whatever the project needs. Due to my teamwork skills and creativity I enjoy programming together with other people and using the different points of view to reach a joint result. Check my projects <strong> <a href='https://github.com/Remojs?tab=repositories'> HERE </a>  </strong>
 
  ---
- 
-<p align="center"> <strong>  Full-Stack Web Developer </strong> </p>
 
 ## Tecnologías:
 [![React](https://img.shields.io/badge/React-999999?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
@@ -35,5 +35,10 @@ I consider myself a responsible and orderly person. I like to work on challengin
 </br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 </br>
+
+## Encuéntrame en:
+
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/zambo_thiago/?hl=es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
 
 
