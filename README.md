@@ -19,15 +19,20 @@ I consider myself a responsible and orderly person. I like to work on challengin
  ---
  
 <p align="center"> <strong>  Full-Stack Web Developer </strong> </p>
-<p align="center"> <strong>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40">
-    </strong> </p>
-<p align="center"> <strong> <a href='https://linktr.ee/thiagozambonini'> mis redes👉 SOCIAL 🔮 </a>  </strong> </p>
+
+## Tecnologías:
+[![React](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+</br>
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+</br>
+[![CSS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Photoshop](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=101010)]()
+</br>
 
 
