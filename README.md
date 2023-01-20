@@ -21,17 +21,17 @@ I consider myself a responsible and orderly person. I like to work on challengin
 <p align="center"> <strong>  Full-Stack Web Developer </strong> </p>
 
 ## Tecnologías:
-[![React](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-999999?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-FA7343?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![Photoshop](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-4285F4?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4285F4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Photoshop](https://img.shields.io/badge/AdobePhotoshop-FFCA28?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=101010)]()
 </br>
 
 
