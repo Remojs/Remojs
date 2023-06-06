@@ -17,8 +17,6 @@
 🚀 I have a huge passion for technology and I consider that it is one of the axes of our lives today, which tends to increase enormously with the passage of time and technological advances. Investing and contributing to this development is something essential for every sector of society.</br>
 
 🎯 My goal is to develop my career in companies that provide me with constant growth and dynamic learning environments, which will allow me to grow both personally and professionally and to be able to contribute to the technological growth that I am so passionate about.</br>
-
-🍀 If you want to hear from me, you can connect with me here. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
 </br>
 </br>
 </br>
@@ -58,7 +56,7 @@
 
 ## 
 
-##Github Stats
+## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=agusbusta&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ##
 ![](https://github-readme-streak-stats.herokuapp.com/?user=agusbusta&theme=dark&hide_border=true)<br/>
