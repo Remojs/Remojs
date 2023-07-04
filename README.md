@@ -10,13 +10,13 @@
 ##
 
 ### About Me
-👋 Hi, I'm Thiago Zambonini, a web development student with a great passion for technology.</br>
+Hello! I'm Thiago Zambonini, web solutions developer with extensive experience in projects. Able to adapt to all types of environments and always bring the best of me in the creation of creative and efficient products. Trained for effective teamwork and focus on the target.
 
-📚 Throughout my studies I have worked on projects ranging from Frontend development, where I have implemented to the maximum the web design and layout, adding interactivity to the page. To the backend, where I put into practice the efficient management of databases, APIs consumption and server requests.</br>
+📚 I have worked on Frontend development projects, where I have implemented to the maximum the web design and layout, adding interactivity to the page. Also in backend, where I put into practice the efficient management of databases, APIs consumption and server requests.
 
-🚀 I have a huge passion for technology and I consider that it is one of the axes of our lives today, which tends to increase enormously with the passage of time and technological advances. Investing and contributing to this development is something essential for every sector of society.</br>
+My goal is to develop my career in companies that provide me with constant growth environments with challenges and dynamic learning, which allows me to grow both personally and professionally and contribute to the growth of the company.
 
-🎯 My goal is to develop my career in companies that provide me with constant growth and dynamic learning environments, which will allow me to grow both personally and professionally and to be able to contribute to the technological growth that I am so passionate about.</br>
+🍀 If you want to hear from me, you can connect with me by gmail thiagozambonini24@gmail.com. </br>
 </br>
 </br>
 </br>
