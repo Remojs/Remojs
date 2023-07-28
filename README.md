@@ -27,8 +27,8 @@
 
 ## Social:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@zambo_Thiago-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/zambo_thiago/?hl=es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+[![Instagram](https://img.shields.io/badge/Instagram-@zambo_Thiago-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/zambo_thiago/?hl=es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
