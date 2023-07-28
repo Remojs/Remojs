@@ -22,15 +22,9 @@
 <p align=center ><img src="https://github.com/Remojs/Remojs/blob/master/Stack.jpg?raw=true" title="source: imgur.com" /></p>
 </br>
 
-##
-
-<p align=center> 
-![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Social:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@zambo_Thiago-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/zambo_thiago/?hl=es)
