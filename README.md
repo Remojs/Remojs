@@ -19,9 +19,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Stack:
 
-  <img width="220" align='left' src="https://github.com/Remojs/Remojs/blob/master/Stack.jpg?raw=true">
-  </br>
-  ##
+<img width="220" align='left' src="https://github.com/Remojs/Remojs/blob/master/Stack.jpg?raw=true">
+</br>
+
+##
+
 ![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
