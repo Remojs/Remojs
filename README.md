@@ -6,7 +6,7 @@
 
 <p align=center > 
   
-[![Twitter](https://img.shields.io/badge/twitter-@Remocode-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://twitter.com/Remocodee)
+[![Twitter](https://img.shields.io/badge/twitter-@Remocode-ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Remocodee)
 </p>
 <p align=center > 
   
