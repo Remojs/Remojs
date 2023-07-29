@@ -1,8 +1,17 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Thiago Zambonini Header](https://github.com/Remojs/Remojs/blob/master/aa.jpg?raw=true)](https://www.linkedin.com/in/thiago-zambonini)
-[![Twitter](https://img.shields.io/badge/twitter-@Remocode-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://twitter.com/Remocodee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/) 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<p align=center > 
+  
+[![Twitter](https://img.shields.io/badge/twitter-@Remocode-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://twitter.com/Remocodee)
+</p>
+<p align=center > 
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/) 
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 </br>
