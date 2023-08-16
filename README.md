@@ -4,11 +4,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align=center > 
+<p align=center> 
   
 [![Twitter](https://img.shields.io/badge/twitter-@Remocode-ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Remocodee)
 </p>
-<p align=center > 
+<p align=center> 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/) 
 </p>
