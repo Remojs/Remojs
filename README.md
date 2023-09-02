@@ -3,20 +3,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-<p align=center> 
-  
-[![Twitter](https://img.shields.io/badge/twitter-@Remocodee-ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Remocodee)
-</p>
-<p align=center> 
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/) 
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-</br>
-
 ### About Me
 👋 Hello! I'm Thiago Zambonini, web solutions developer with extensive experience in projects. Able to adapt to all types of environments and always bring the best of me in the creation of creative and efficient products. Trained for effective teamwork and focus on the target.
 
@@ -34,6 +20,18 @@
 </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align=center> 
+  
+[![Twitter](https://img.shields.io/badge/twitter-@Remocodee-ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Remocodee)
+</p>
+<p align=center> 
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/) 
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+</br>
 
 ## Github Stats
 
