@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### About Me
-👋 Hello! I'm Thiago Zambonini, web solutions developer with extensive experience in projects. Able to adapt to all types of environments and always bring the best of me in the creation of creative and efficient products. Trained for effective teamwork and focus on the target.
+👋 Hello! I'm Thiago Zambonini, gamer, technology fanatic and web solutions developer with extensive experience in projects. Able to adapt to all types of environments and always bring the best of me in the creation of creative and efficient products. Trained for effective teamwork and focus on the target.
 
 📚 I have worked on Frontend development projects, where I have implemented to the maximum the web design and layout, adding interactivity to the page. Also in backend, where I put into practice the efficient management of databases, APIs consumption and server requests.
 
