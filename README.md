@@ -12,7 +12,6 @@
 🚀 My goal is to develop my professional career in challenging environments where growth is constant and learning is dynamic.
 
 </br>
-</br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
