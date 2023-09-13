@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Thiago Zambonini Header](https://github.com/Remojs/Remojs/blob/master/aa.jpg?raw=true)](https://www.linkedin.com/in/thiago-zambonini)
+[![Thiago Zambonini Header](https://github.com/Remojs/Remojs/blob/master/gh-new-portrait.jpg)](https://www.linkedin.com/in/thiago-zambonini)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
