@@ -23,6 +23,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## Social
+
 <p align=center> 
   
 [![Twitter](https://img.shields.io/badge/twitter-@Remocodee-ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Remocodee)
@@ -31,6 +33,12 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/) 
 </p>
+
+<p align=center> 
+  
+[![Linktree](https://img.shields.io/badge/Linktree-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/thiagozambonini) 
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 </br>
