@@ -25,6 +25,11 @@
 # My Best Projects
 
 <a href="https://github.com/Remojs/Rickverse-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Rickverse-Frontend&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Rickverse"></a>
+<a href="https://github.com/Remojs/Learning-Typescript"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Learning-Typescript&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Learning-Typescript"></a>
+<a href="https://github.com/Remojs/Learning-Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Learning-Java&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Learning-Java"></a>
+<a href="https://github.com/Remojs/GottaFetchThemAll-API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=GottaFetchThemAll-API&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="GottaFetchThemAll-API"></a>
+<a href="https://github.com/Remojs/Talent-Forge-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Talent-Forge-Frontend&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Talent-Forge-Frontend"></a>
+<a href="https://github.com/Remojs/Steel-Games-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Steel-Games-Website&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Steel-Games-Website"></a>
 
 ## Social
 
