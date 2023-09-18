@@ -22,6 +22,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# My Best Projects
+
+<a href="https://github.com/Remojs/Rickverse-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Rickverse&theme=react&bg_color=1F222E&title_color=570182&hide_border=true&icon_color=CA59FF&show_icons=false" alt="readme-typing-svg"></a>
+
 ## Social
 
 <p align=center> 
@@ -45,7 +49,7 @@
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Remojs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Remojs&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=&theme=shadow-purple)<br/>
 ##
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
