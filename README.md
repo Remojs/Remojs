@@ -24,8 +24,7 @@
 
 # My Best Projects
 
-<a href="https://github.com/Remojs/Rickverse-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Rickverse&theme=react&bg_color=1F222E&title_color=570182&hide_border=true&icon_color=CA59FF&show_icons=false" alt="readme-typing-svg"></a>
-<a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Rickverse-Frontend&theme=react&bg_color=1F222E&title_color=570182&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Rickverse"></a>
+<a href="https://github.com/Remojs/Rickverse-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Rickverse-Frontend&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Rickverse"></a>
 
 ## Social
 
@@ -49,7 +48,7 @@
 
 ## Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Remojs&theme=shadow-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Remojs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple)<br/>
 ##
 
