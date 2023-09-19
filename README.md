@@ -53,9 +53,19 @@
 
 ## Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Remojs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Remojs&theme=dark&show_icons=true&locale=en&layout=compact)<br/>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Remojs&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Remojs&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </div>
+</div>
+
+<div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple" alt="GitHub Streak Stats" />
+</div>
+
 ##
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
