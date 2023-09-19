@@ -53,6 +53,18 @@
 [![Linktree](https://img.shields.io/badge/Linktree-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/thiagozambonini) 
 </p>
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <img src="https://img.shields.io/badge/Linktree-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010" alt="GitHub Stats" />
+    </div>
+    <div style="flex: 1;">
+        <img src="https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="Top Languages" />
+    </div>
+    <div style="flex: 1;">
+        <img src="https://img.shields.io/badge/twitter-@Remocodee-ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" alt="Top Languages" />
+    </div>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 </br>
