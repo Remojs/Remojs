@@ -55,11 +55,12 @@
 
 ## Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Remojs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![PROFILE STAT]( https://github-readme-stats.vercel.app/api?username=Remojs&theme=dark&hide_border=true&include_all_commits=true&count_private=true )
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Remojs&theme=dark&show_icons=true&locale=en&layout=compact)
+![STREAK STAT]( https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple )
 
-![](https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple)
+![LENGUAGES STAT]( https://github-readme-stats.vercel.app/api/top-langs?username=Remojs&theme=dark&show_icons=true&locale=en&layout=compact )
+
 
 ##
 
