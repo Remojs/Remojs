@@ -15,7 +15,7 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![](https://spotify-github-profile.vercel.app/api/view?uid=i96sfl3hu99h82hjrdj07odja&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=7f5be3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=i96sfl3hu99h82hjrdj07odja&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i96sfl3hu99h82hjrdj07odja&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=false&bar_color=7f5be3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=i96sfl3hu99h82hjrdj07odja&redirect=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
