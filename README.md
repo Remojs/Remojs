@@ -45,11 +45,11 @@
 
 <p align=center> 
   
-[![Twitter](https://img.shields.io/badge/twitter-@Remocodee-ffffff?style=for-the-badge&logo=twitter&logoColor=ad1ceb&labelColor=0D1117)](https://twitter.com/Remocodee)
+[![Twitter](https://img.shields.io/badge/twitter-@Remocodee-ad1ceb?style=for-the-badge&logo=twitter&logoColor=ad1ceb&labelColor=0D1117)](https://twitter.com/Remocodee)
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linkedin&logoColor=ad1ceb&labelColor=0D1117)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-ad1ceb?style=for-the-badge&logo=linkedin&logoColor=ad1ceb&labelColor=0D1117)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
 
-[![Linktree](https://img.shields.io/badge/Linktree-Thiago_Zambonini-ffffff?style=for-the-badge&logo=linktree&logoColor=ad1ceb&labelColor=0D1117)](https://linktr.ee/thiagozambonini) 
+[![Linktree](https://img.shields.io/badge/Linktree-Thiago_Zambonini-ad1ceb?style=for-the-badge&logo=linktree&logoColor=ad1ceb&labelColor=0D1117)](https://linktr.ee/thiagozambonini) 
 
 </p>
 
