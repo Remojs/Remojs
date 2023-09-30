@@ -1,5 +1,5 @@
 ### Hellouda 
-<img src="https://media.moddb.com/cache/images/downloads/1/35/34686/thumb_620x2000/v7cjyb.gif" height="60" width="100">
+
 
 [![Thiago Zambonini Header](https://github.com/Remojs/Remojs/blob/master/gh-new-portrait.jpg)](https://www.linkedin.com/in/thiago-zambonini)
 
@@ -64,7 +64,7 @@
 
 ![]( https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple )
 
-<img src="https://31.media.tumblr.com/763c3316020958083351d79146df4d0c/tumblr_mr3i30XBH61se2vfqo1_500.gif" height="100" width="100">
+<img src="https://media.moddb.com/cache/images/downloads/1/35/34686/thumb_620x2000/v7cjyb.gif" height="100" width="150">
 
 ##
 
