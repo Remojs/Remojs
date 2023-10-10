@@ -64,8 +64,6 @@
 
 ![LENGUAGES STAT]( https://github-readme-stats.vercel.app/api/top-langs?username=Remojs&theme=dark&show_icons=true&locale=en&layout=compact )
 
-<img src="https://media.moddb.com/cache/images/downloads/1/35/34686/thumb_620x2000/v7cjyb.gif" height="100" width="150">
-
 ##
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
