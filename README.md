@@ -11,7 +11,7 @@
 
 📚 I have worked on numerous projects with a wide range of technologies, from Javascript, Typescript, Node.js, React.js, Java, among others.
 
-🚀 My goal is to develop my professional career in challenging environments where growth is constant and learning is dynamic.
+🚀 My goal is to develop my professional career in challenging environments where growth is constant and learning is dynamic
 
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
