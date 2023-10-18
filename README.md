@@ -7,7 +7,7 @@
 
 ### About Me
 
-🍀 Hi! I'm Thiago Zambonini, a technology fanatic, videogamer and web solutions developer with extensive experience, adaptable and lover of creative and efficient solutions.
+🍀 Hi! I'm Thiago Zambonini, a technology fanatic, videogamer and web solutions developer with extensive experience, adaptable and lover of creative and efficient solutions
 
 📚 I have worked on numerous projects with a wide range of technologies, from Javascript, Typescript, Node.js, React.js, Java, among others.
 
