@@ -7,17 +7,20 @@
 
 ### About Me
 
-🍀 Hi! I'm Thiago Zambonini, a technology fanatic, videogamer and web solutions developer with extensive experience, adaptable and lover of creative and efficient solutions.
+🍀 Hi! I'm Thiago Zambonini
 
-📚 I have worked on numerous projects with a wide range of technologies, from Javascript, Typescript, Node.js, React.js, Java, among others.
+🔰 Im a Programmer  </br>
+🔰 Im a Tecnophilian </br>
+🔰 Im a Streamer </br>
+🔰 Im a Videogames lover  </br>
+🔰 Im a Web development enthusiast </br>
 
-🚀 My goal is to develop my professional career in challenging environments where growth is constant and learning is dynamic
+📚 I have worked on numerous projects with a wide range of technologies, from web pages and applications, to game mods and discord bots. I try to make my code as creative and efficient as possible, trying to vary to learn as much as possible.
+
+🚀 My goal is to develop my professional career in challenging environments where growth is constant and learning is dynamic. Always looking to boost my career with my knowledge and passion for development.
+
 
 </br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i96sfl3hu99h82hjrdj07odja&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=false&bar_color=7f5be3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=i96sfl3hu99h82hjrdj07odja&redirect=true)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Stack
