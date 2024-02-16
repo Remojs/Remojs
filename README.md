@@ -40,8 +40,6 @@
 <a href="https://github.com/Remojs/Steel-Games-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Steel-Games-Website&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Steel-Games-Website"></a>
 
 # My Next Big Projects
-
-<a href="https://github.com/Remojs/Vehicleverse-API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Vehicleverse-API&theme=react&bg_color=0D1117&title_color=7f5be3&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Vehicleverse"></a>
 <a href="https://github.com/Remojs/RentO-Backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=RentO-Backend&theme=react&bg_color=0D1117&title_color=7f5be3&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Vehicleverse"></a>
 <a href="https://github.com/Remojs/Taskify-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Taskify-Frontend&theme=react&bg_color=0D1117&title_color=7f5be3&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Vehicleverse"></a>
 
