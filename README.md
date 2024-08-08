@@ -36,15 +36,9 @@
 <a href="https://github.com/Remojs/Talent-Forge-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Talent-Forge-Frontend&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Talent-Forge-Frontend"></a>
 <a href="https://github.com/Remojs/Steel-Games-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Steel-Games-Website&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Steel-Games-Website"></a>
 
-# My Next Big Projects
-<a href="https://github.com/Remojs/RentO-Backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=RentO-Backend&theme=react&bg_color=0D1117&title_color=7f5be3&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Vehicleverse"></a>
-<a href="https://github.com/Remojs/Taskify-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Taskify-Frontend&theme=react&bg_color=0D1117&title_color=7f5be3&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Vehicleverse"></a>
-
 ## Social
 
 <p align=center> 
-  
-[![Twitter](https://img.shields.io/badge/twitter-@Remocodee-570182?style=for-the-badge&logo=twitter&logoColor=C858FD&labelColor=0D1117)](https://twitter.com/Remocodee)
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-570182?style=for-the-badge&logo=linkedin&logoColor=C858FD&labelColor=0D1117)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
 
