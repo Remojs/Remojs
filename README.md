@@ -11,6 +11,7 @@
 🔰 Im a Streamer </br>
 🔰 Im a Videogames lover  </br>
 🔰 Im a Web development enthusiast </br>
+🔰 Im a Modder </br>
 
 📚 I have worked on numerous projects with a wide range of technologies, from web pages and applications, to game mods and discord bots. I try to make my code as creative and efficient as possible, trying to vary to learn as much as possible.
 
