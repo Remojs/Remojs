@@ -7,8 +7,6 @@
 🍀 Hi! I'm Thiago Zambonini
 
 🔰 Im a Programmer  </br>
-🔰 Im a Tecnophilian </br>
-🔰 Im a Streamer </br>
 🔰 Im a Videogames lover  </br>
 🔰 Im a Web development enthusiast </br>
 🔰 Im a Modder </br>
