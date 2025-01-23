@@ -29,12 +29,13 @@
 <a href="https://github.com/Remojs/Steel-Games-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Steel-Games-Website&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Steel-Games-Website"></a>
 
 ## Social
-
-<p align=center> 
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-570182?style=for-the-badge&logo=linkedin&logoColor=C858FD&labelColor=0D1117)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
-[![Linktree](https://img.shields.io/badge/Linktree-Thiago_Zambonini-570182?style=for-the-badge&logo=linktree&logoColor=C858FD&labelColor=0D1117)](https://linktr.ee/thiagozambonini) 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-zambonini-2a279a239/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-570182?style=for-the-badge&logo=linkedin&logoColor=C858FD&labelColor=0D1117"/>
+  </a>
+   <a href="https://thiagozambonini.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-570182?style=for-the-badge&labelColor=0D1117"/>
+  </a>
 </p>
 
 ## Stack
