@@ -41,19 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,angular,mysql,postgres,mongodb,php,laravel,nestjs,java&perline=8"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,ps,figma&perline=14"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,vite,postman,npm,yarn&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,angular,mysql,postgres,mongodb,php,laravel,nestjs,java,notion,ps,figma,vscode,idea,git,github,vite,postman,npm,yarn&perline=9"/>
   </a>
 </p>
 
