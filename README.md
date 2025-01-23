@@ -31,8 +31,10 @@
 ## Social
 
 <p align=center> 
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-570182?style=for-the-badge&logo=linkedin&logoColor=C858FD&labelColor=0D1117)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
 [![Linktree](https://img.shields.io/badge/Linktree-Thiago_Zambonini-570182?style=for-the-badge&logo=linktree&logoColor=C858FD&labelColor=0D1117)](https://linktr.ee/thiagozambonini) 
+
 </p>
 
 ## Stack
@@ -50,13 +52,17 @@
 
 ## Github Stats 
 
-![]( https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple )
+<p align="center">
+  <a href="https://github.com/remojs">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple"/>
+  </a>
+</p>
 
 <p align="center">
-<a href="https://github.com/mesajil">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remojs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remojs&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+  <a href="https://github.com/remojs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remojs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remojs&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
 </p>
 
 ##
