@@ -19,13 +19,6 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Stack
-
-<p align=center ><img src="https://github.com/Remojs/Remojs/blob/master/Stack-2.png?raw=true" title="source: imgur.com" /></p>
-</br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 # My Best Projects
 
 <a href="https://github.com/Remojs/Rickverse-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Remojs&repo=Rickverse-Frontend&theme=react&bg_color=0D1117&title_color=ad1ceb&hide_border=true&icon_color=CA59FF&show_icons=false" alt="Rickverse"></a>
@@ -38,14 +31,20 @@
 ## Social
 
 <p align=center> 
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Zambonini-570182?style=for-the-badge&logo=linkedin&logoColor=C858FD&labelColor=0D1117)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
-
 [![Linktree](https://img.shields.io/badge/Linktree-Thiago_Zambonini-570182?style=for-the-badge&logo=linktree&logoColor=C858FD&labelColor=0D1117)](https://linktr.ee/thiagozambonini) 
-
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,angular,mysql,postgres,mongodb,php,laravel,nestjs,java&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=notion,ps,figma&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,vite,postman,npm,yarn&perline=14"/>
+  </a>
+</p>
+
 </br>
 </br>
 
@@ -53,7 +52,12 @@
 
 ![]( https://github-readme-streak-stats.herokuapp.com?user=Remojs&theme=shadow-purple )
 
-![LENGUAGES STAT]( https://github-readme-stats.vercel.app/api/top-langs?username=Remojs&theme=dark&show_icons=true&locale=en&layout=compact )
+<p align="center">
+<a href="https://github.com/mesajil">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remojs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remojs&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
 
 ##
 
