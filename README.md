@@ -50,8 +50,8 @@
 
 <p align="center">
   <a href="https://github.com/remojs">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remojs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remojs&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remojs&show_icons=true&include_all_commits=true&count_private=true&theme=shadow-purple"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remojs&layout=compact&langs_count=8&theme=shadow-purple"/>
   </a>
 </p>
 
