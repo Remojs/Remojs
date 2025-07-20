@@ -1,21 +1,21 @@
-### Hellouda!
+### Hellouda! 👋
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="welcome gif" />
 
 ### About Me
 
-🍀 Hi! I'm Thiago Zambonini
+🍀 Hi! I'm **Thiago Zambonini**
 
-🔰 Im a Programmer  </br>
-🔰 Im a Videogames lover  </br>
-🔰 Im a Web development enthusiast </br>
-🔰 Im a Game Modder </br>
-🔰 Im a Cybersecurity Enjoyer </br>
+🔰 Web Developer & Frontend Enthusiast  
+🎮 Videogame Lover & Game Modder  
+🛡️ Cybersecurity Explorer  
+💡 Creative Coder with a passion for learning
 
-📚 I have worked on numerous projects with a wide range of technologies, from web pages and applications, to game mods and discord bots. I try to make my code as creative and efficient as possible, trying to vary to learn as much as possible.
+---
 
-🚀 My goal is to develop my professional career in challenging environments where growth is constant and learning is dynamic. Always looking to boost my career with my knowledge and passion for development.
+📚 I've worked on a wide range of projects — from web apps and game mods to Discord bots — always exploring new technologies and pushing my skills further. I value clean, creative, and efficient code, and I’m constantly experimenting to keep growing as a developer.
 
+🚀 My goal is to grow professionally in dynamic, challenging environments where I can keep learning, building and contributing with passion and purpose.
 
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
