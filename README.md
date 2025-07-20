@@ -10,6 +10,7 @@
 🎮 Videogame Lover & Game Modder  
 🛡️ Cybersecurity Explorer  
 💡 Creative Coder with a passion for learning
+🚀 IA Enjoyer
 
 ---
 
