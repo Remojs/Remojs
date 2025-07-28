@@ -2,21 +2,30 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="welcome gif" />
 
-### About Me
+# About Me
 
 🍀 Hi! I'm **Thiago Zambonini**
 
-🔰 Web Developer & Frontend Enthusiast  
-🎮 Videogame Lover & Game Modder  
-🛡️ Cybersecurity Explorer  
-🚀 IA Enjoyer
-💡 Creative Coder with a passion for learning
+<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" alt="new gif" />
 
 ---
 
-📚 I've worked on a wide range of projects — from web apps and game mods to Discord bots — always exploring new technologies and pushing my skills further. I value clean, creative, and efficient code, and I’m constantly experimenting to keep growing as a developer.
 
-🚀 My goal is to grow professionally in dynamic, challenging environments where I can keep learning, building and contributing with passion and purpose.
+
+🔰 Frontend Developer, sometimes Backend  
+🎨 UX/UI Designer   
+🎮 Videogame Lover & Game Modder  
+🛡️ Cybersecurity Explorer  
+🚀 IA Enjoyer  
+💡 Creative Coder with a passion for learning
+</br>
+
+---
+
+</br>
+📚 I’m Thiago Zambonini, a frontend developer passionate about technology who crafts attractive web interfaces, builds backend systems and creates video‑game mods—always driven to solve problems and elevate the user experience.
+
+🚀 Fueled by curiosity for artificial intelligence, I develop my own tools and personal projects that showcase my drive to learn, experiment and make a meaningful impact. I thrive on collaboration and eagerly embrace challenges that push my skills further and help me grow.
 
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -57,8 +66,8 @@
   </a>
 </p>
 
-##
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" alt="new gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
