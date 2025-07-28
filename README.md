@@ -43,9 +43,9 @@
 ## Stack
 
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif" alt="cyberpunk gif" style="max-width: 30%; margin-right: 25px;" />
+  <img src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif" alt="cyberpunk gif" style="max-width: 20%; margin-right: 20px;" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,angular,mysql,postgres,mongodb,php,laravel,nestjs,java,notion,ps,figma,vscode,idea,git,github,vite,postman,npm,yarn&perline=4" style="max-width: 55%;" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,angular,mysql,postgres,mongodb,php,laravel,nestjs,java,notion,ps,figma,vscode,idea,git,github,vite,postman,npm,yarn&perline=4" style="max-width: 60%;" />
   </a>
 </p>
 
