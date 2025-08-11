@@ -24,8 +24,8 @@
 ---
 
 </br>
-📚 I’m Thiago Zambonini, a frontend developer passionate about technology who crafts attractive web interfaces, builds backend systems and creates video‑game mods—always driven to solve problems and elevate the user experience.
-</br>
+📚 I’m Thiago Zambonini, a frontend developer passionate about technology who crafts attractive web interfaces, builds backend systems and creates video‑game mods—always driven to solve problems and elevate the user experience. </br></br>
+
 🚀 Fueled by curiosity for artificial intelligence, I develop my own tools and personal projects that showcase my drive to learn, experiment and make a meaningful impact. I thrive on collaboration and eagerly embrace challenges that push my skills further and help me grow.
 
 </br>
